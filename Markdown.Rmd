@@ -36,5 +36,5 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 **YEAH BABY**
 
-![You Can't Find Mojo Like This Baby]
+![You Can't Find Mojo Like This Baby](austin-powers.jpg)
 
