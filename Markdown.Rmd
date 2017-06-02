@@ -31,8 +31,8 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 ![Caption](C:/Users/mecha/Documents/Dat 3 - csafE/Markdown practice 2.jpg
 ![Caption](C:/Users/mecha/Documents/Dat 3 - csafE/)
 
-#This is a Heading Made by Austin Powers {#anchor}
-##Would you like to see Austin Powers? {#css_id}
+# This is a Heading Made by Austin Powers {#anchor}
+## Would you like to see Austin Powers? {#css_id}
 
 **YEAH BABY**
 
